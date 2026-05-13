@@ -1,6 +1,3 @@
-# CorelDRAW-SelectSmallObjects
-A VBA macro for CorelDRAW (2020+) that automates the selection of vector objects based on user-defined dimensional thresholds.
-
 # CorelDRAW Select Small Objects Macro
 
 An automated cleanup tool for **CorelDRAW** that allows users to instantly select multiple vector objects based on specific width and height thresholds.
@@ -36,7 +33,7 @@ This macro is essential for designers working with complex vectorizations, high-
 5. Choose your **Selection Rule** (AND/OR).
 6. Click **OK**. All matching objects on the active page will be highlighted.
 
-## ⚙️ Technical Details
+## Technical Details
 
 The macro iterates through the `ActivePage.Shapes` collection. It uses the following logic to determine selection:
 
