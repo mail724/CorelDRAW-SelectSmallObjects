@@ -45,15 +45,10 @@ $$\text{Selection} = \{s \in \text{Shapes} \mid s.\text{Width} \le W_{\text{max}
 $$\text{Selection} = \{s \in \text{Shapes} \mid s.\text{Width} \le W_{\text{max}} \lor s.\text{Height} \le H_{\text{max}}\}$$
 
 
-
 ## Compatibility
 
 * **CorelDRAW Graphics Suite** 2020, 2021, 2022, 2024, and 2026.
 * Requires **VBA (Visual Basic for Applications)** to be enabled during CorelDRAW installation.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
 ---
 
